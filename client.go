@@ -27,7 +27,7 @@ import (
 /*
 飞书 api 服务器地址
 */
-var FeishuServerUrl = "https://open.feishu.cn"
+var FeishuServerUrl = "https://open.larksuite.com"
 var FeishuServerUrl2 = "https://www.feishu.cn"
 
 /*
