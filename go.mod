@@ -1,4 +1,4 @@
-module github.com/fastwego/feishu
+module github.com/ylck/feishu
 
 go 1.14
 
