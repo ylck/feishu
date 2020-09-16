@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"net/http"
 
-	"github.com/fastwego/feishu"
+	"github.com/ylck/feishu"
 )
 
 const (

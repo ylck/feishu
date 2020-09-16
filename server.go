@@ -1,4 +1,4 @@
-// Copyright 2020 FastWeGo
+// Copyright 2020 ylck
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -21,9 +21,9 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/fastwego/feishu/types/event_types"
+	"github.com/ylck/feishu/types/event_types"
 
-	"github.com/fastwego/feishu/util"
+	"github.com/ylck/feishu/util"
 )
 
 /*

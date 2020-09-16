@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/fastwego/feishu"
-	"github.com/fastwego/feishu/apis/capabilities/document/docs"
+	"github.com/ylck/feishu"
+	"github.com/ylck/feishu/apis/capabilities/document/docs"
 )
 
 func ExampleRawContent() {

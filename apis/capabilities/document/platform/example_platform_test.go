@@ -3,8 +3,8 @@ package platform_test
 import (
 	"fmt"
 
-	"github.com/fastwego/feishu"
-	"github.com/fastwego/feishu/apis/capabilities/document/platform"
+	"github.com/ylck/feishu"
+	"github.com/ylck/feishu/apis/capabilities/document/platform"
 )
 
 func ExampleDocsMeta() {

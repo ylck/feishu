@@ -1,4 +1,4 @@
-// Copyright 2020 FastWeGo
+// Copyright 2020 ylck
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -17,8 +17,8 @@ package contact_test
 import (
 	"fmt"
 
-	"github.com/fastwego/feishu"
-	"github.com/fastwego/feishu/apis/contact"
+	"github.com/ylck/feishu"
+	"github.com/ylck/feishu/apis/contact"
 )
 
 func ExampleTenantCustomAttrGet() {

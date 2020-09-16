@@ -1,14 +1,14 @@
-# fastwego/feishu
+# ylck/feishu
 
 A fast [feishu](https://open.feishu.cn/) development sdk written in Golang
 
-[![GoDoc](https://pkg.go.dev/badge/github.com/fastwego/feishu?status.svg)](https://pkg.go.dev/github.com/fastwego/feishu?tab=doc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/fastwego/feishu)](https://goreportcard.com/report/github.com/fastwego/feishu)
+[![GoDoc](https://pkg.go.dev/badge/github.com/ylck/feishu?status.svg)](https://pkg.go.dev/github.com/ylck/feishu?tab=doc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ylck/feishu)](https://goreportcard.com/report/github.com/ylck/feishu)
 
 ## 快速开始 & demo
 
 ```shell script
-go get github.com/fastwego/feishu
+go get github.com/ylck/feishu
 ```
 ```go
 // 创建应用
@@ -26,7 +26,7 @@ fmt.Println(string(resp), err)
 
 完整演示项目：
 
-[https://github.com/fastwego/feishu-demo](https://github.com/fastwego/feishu-demo)
+[https://github.com/ylck/feishu-demo](https://github.com/ylck/feishu-demo)
 
 API 列表：
 
@@ -43,7 +43,7 @@ API 列表：
 「快」作为框架设计的核心理念，体现在方方面面：
 
 - 使用 Go 语言，开发快、编译快、部署快、运行快，轻松服务海量用户
-- 丰富的[文档](https://pkg.go.dev/github.com/fastwego/feishu) 和 [演示代码](https://github.com/fastwego/feishu-demo) ，快速上手，5 分钟即可搭建一个完整地飞书 App
+- 丰富的[文档](https://pkg.go.dev/github.com/ylck/feishu) 和 [演示代码](https://github.com/ylck/feishu-demo) ，快速上手，5 分钟即可搭建一个完整地飞书 App
 - 独立清晰的模块划分，快速熟悉整个框架，没有意外，一切都是你期望的样子
 - 甚至连框架自身的大部分代码也是自动生成的，维护更新快到超乎想象
 
@@ -71,7 +71,7 @@ API 列表：
 
 ### 活跃的开发者社区
 
-FastWeGo 是一套丰富的 Go 服务开发框架，支持飞书、微信等服务，拥有庞大的开发者用户群体
+ylck 是一套丰富的 Go 服务开发框架，支持飞书、微信等服务，拥有庞大的开发者用户群体
 
 你遇到的所有问题几乎都可以在社区找到解决方案
 
@@ -81,4 +81,4 @@ FastWeGo 是一套丰富的 Go 服务开发框架，支持飞书、微信等服�
 
 Faster we go together!
 
-[加入开发者交流群](https://github.com/fastwego/fastwego.dev#%E5%BC%80%E5%8F%91%E8%80%85%E4%BA%A4%E6%B5%81%E7%BE%A4)
+[加入开发者交流群](https://github.com/ylck/ylck.dev#%E5%BC%80%E5%8F%91%E8%80%85%E4%BA%A4%E6%B5%81%E7%BE%A4)

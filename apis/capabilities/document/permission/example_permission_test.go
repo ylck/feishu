@@ -3,8 +3,8 @@ package permission_test
 import (
 	"fmt"
 
-	"github.com/fastwego/feishu"
-	"github.com/fastwego/feishu/apis/capabilities/document/permission"
+	"github.com/ylck/feishu"
+	"github.com/ylck/feishu/apis/capabilities/document/permission"
 )
 
 func ExampleMemberCreate() {

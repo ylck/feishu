@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/fastwego/feishu"
+	"github.com/ylck/feishu"
 )
 
 const (

@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/fastwego/feishu"
-	"github.com/fastwego/feishu/test"
+	"github.com/ylck/feishu"
+	"github.com/ylck/feishu/test"
 )
 
 func TestMain(m *testing.M) {

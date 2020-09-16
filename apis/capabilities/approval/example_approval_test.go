@@ -1,4 +1,4 @@
-// Copyright 2020 FastWeGo
+// Copyright 2020 ylck
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -17,8 +17,8 @@ package approval_test
 import (
 	"fmt"
 
-	"github.com/fastwego/feishu"
-	"github.com/fastwego/feishu/apis/capabilities/approval"
+	"github.com/ylck/feishu"
+	"github.com/ylck/feishu/apis/capabilities/approval"
 )
 
 func ExampleGet() {

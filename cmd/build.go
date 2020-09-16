@@ -1,4 +1,4 @@
-// Copyright 2020 FastWeGo
+// Copyright 2020 ylck
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/fastwego/feishu"
+	"github.com/ylck/feishu"
 
 	"github.com/iancoleman/strcase"
 )
@@ -59,7 +59,7 @@ func apilist() {
 				api.FuncName = strcase.ToCamel(path.Base(parse.Path))
 			}
 
-			godocLink := fmt.Sprintf("https://pkg.go.dev/github.com/fastwego/feishu/apis/%s?tab=doc#%s", group.Package, api.FuncName)
+			godocLink := fmt.Sprintf("https://pkg.go.dev/github.com/ylck/feishu/apis/%s?tab=doc#%s", group.Package, api.FuncName)
 			fmt.Printf("\t- [%s](%s) \n\t\t- [%s (%s)](%s)\n", api.Name, api.See, api.FuncName, parse.Path, godocLink)
 		}
 	}

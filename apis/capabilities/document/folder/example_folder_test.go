@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/fastwego/feishu"
-	"github.com/fastwego/feishu/apis/capabilities/document/folder"
+	"github.com/ylck/feishu"
+	"github.com/ylck/feishu/apis/capabilities/document/folder"
 )
 
 func ExampleCreate() {

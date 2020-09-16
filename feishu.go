@@ -1,4 +1,4 @@
-// Copyright 2020 FastWeGo
+// Copyright 2020 ylck
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -65,7 +65,7 @@ func newApp(config AppConfig) (app *App) {
 	instance.Client = Client{Ctx: &instance}
 	instance.Server = Server{Ctx: &instance}
 
-	instance.Logger = log.New(os.Stdout, "[fastwego/feishu] ", log.LstdFlags|log.Llongfile)
+	instance.Logger = log.New(os.Stdout, "[ylck/feishu] ", log.LstdFlags|log.Llongfile)
 
 	return &instance
 }

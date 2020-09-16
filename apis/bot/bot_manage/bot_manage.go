@@ -1,4 +1,4 @@
-// Copyright 2020 FastWeGo
+// Copyright 2020 ylck
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ import (
 	"bytes"
 	"net/http"
 
-	"github.com/fastwego/feishu"
+	"github.com/ylck/feishu"
 )
 
 const (

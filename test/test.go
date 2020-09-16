@@ -1,4 +1,4 @@
-// Copyright 2020 FastWeGo
+// Copyright 2020 ylck
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/fastwego/feishu"
+	"github.com/ylck/feishu"
 )
 
 var MockApp *feishu.App

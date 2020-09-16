@@ -1,4 +1,4 @@
-// Copyright 2020 FastWeGo
+// Copyright 2020 ylck
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -22,8 +22,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/fastwego/feishu/types/event_types"
 	"github.com/iancoleman/strcase"
+	"github.com/ylck/feishu/types/event_types"
 )
 
 func parse() {
